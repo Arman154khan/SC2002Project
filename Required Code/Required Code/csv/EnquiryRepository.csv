@@ -1,0 +1,3 @@
+EnquiryId,Question,Answer,IsResolved,EnquirerName,ProjectId
+E001,When am I likely to receive an application update?,Your applications status has been updated. Please check again. Thank you. ,true,Sarah,P001
+E002,When can I expect to hear back on my application?,,false,Sarah,P001
